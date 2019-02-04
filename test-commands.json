@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Opened ports",
+    "command": " sudo lsof -nP -i | grep LISTEN"
+  },
+  {
+    "name": "Opened ports2",
+    "command": "ssh ubuntu@13.127.124.189"
+  },
+  {
+    "name": "Ls",
+    "command": "ls -la"
+  }
+]
