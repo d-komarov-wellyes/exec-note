@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Komarov Danil",
+    "email": "komarov.fl@yandex.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komarov-fl/exec-note"
+  },
   "dependencies": {
     "blessed": "^0.1.81",
     "env-paths": "^2.0.0"
